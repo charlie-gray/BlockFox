@@ -1,5 +1,5 @@
 # Welcome to BlockFox
-A simple DNS bypass tool.
+A simple DNS block bypass tool.
 
 # How to use
 
