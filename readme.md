@@ -11,3 +11,5 @@ ex py blockfox.py www.example.com www.coolmathgames.com
 
 Python
 Windows
+
+# Made with <3 by Charlie Gray
