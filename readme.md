@@ -11,5 +11,6 @@ restart your browser
 
 # Requirements
 
-Python
-Windows
+Python, Windows, and the python requests library 
+
+# Made with <3 by Charlie Gray
