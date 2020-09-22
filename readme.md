@@ -9,7 +9,6 @@ ex py blockfox.py www.example.com www.coolmathgames.com
 
 # Requirements
 
-Python
-Windows
+Python, Windows, and the python requests library 
 
 # Made with <3 by Charlie Gray
