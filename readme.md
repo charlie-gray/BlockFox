@@ -7,6 +7,8 @@ run "py blockfox.py [urls]"
 
 ex py blockfox.py www.example.com www.coolmathgames.com
 
+restart your browser
+
 # Requirements
 
 Python
