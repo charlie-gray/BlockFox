@@ -5,7 +5,7 @@ A simple DNS block bypass tool.
 
 run "py blockfox.py [urls]"
 
-ex py blockfox.py www.example.com www.coolmathgames.com
+ex.  `py blockfox.py www.example.com www.coolmathgames.com`
 
 restart your browser
 
